@@ -8,7 +8,7 @@ The conversational RAG Bot with voice-enabled interaction addresses this by prov
 
 ## Tools
 - **LLM - Cohere’s Command-r-plus**: Best suited for complex RAG workflows with long context.
-- **VectorDB - Qdrant Vector Store**: Useful for semantic-based matching.
+- **VectorDB - Qdrant Vector Store & ChromaDB**: Useful for semantic-based matching.
 - **Document Loader**: Unstructured text extraction.
 - **Uvicorn**: ASGI web server.
 - **FastAPI**: High-performance web framework for APIs.
